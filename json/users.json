@@ -1,0 +1,23 @@
+[
+    {
+        "ID": 1,
+        "FirstName": "Asliddin",
+        "LastName": "Tukhtasinov",
+        "Interests": "Python, Golang, JavaScript",
+        "Profile": "http://www.asliddin.uz"
+    },
+    {
+        "ID": 2,
+        "FirstName": "Jumong",
+        "LastName": "Jumongov",
+        "Interests": "Golang, JavaScript",
+        "Profile": "http://www.jumong.uz"
+    },
+    {
+        "ID": 3,
+        "FirstName": "Admin",
+        "LastName": "Adminov",
+        "Interests": "Python, Golang",
+        "Profile": "http://www.admin.uz"
+    }
+]
