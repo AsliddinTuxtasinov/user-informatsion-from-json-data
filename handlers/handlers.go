@@ -41,7 +41,7 @@ func Home(w http.ResponseWriter, r *http.Request) {
 	}
 	viewModel := modelsVm.UserModelView{Page: page, Users: newUsers}
 	bytes, _ := json.Marshal(viewModel)
-	
+
 	// Response data
 	w.WriteHeader(http.StatusOK)
 	w.Header().Set("Content-Type", "application/json")
